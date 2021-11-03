@@ -15,7 +15,7 @@
     "nuxt": "^2.13.0",
     "password-validator": "^5.0.3",
     "trianglify": "^4.0.0",
-    "validator": "^13.1.1"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "@nuxtjs/vuetify": "^1.11.2"
